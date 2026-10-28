@@ -1,9 +1,19 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBB8F3,50:F5C6E8,100:C7D2FE&height=200&section=header&text=Maria%20Hita&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistics%20Student%20%7C%20Aspiring%20Data%20Analyst%20%26%20Data%20Scientist&descAlignY=60&descSize=15" width="100%" alt="Animated pastel header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights+%E2%9C%A8;Exploring+statistics+and+machine+learning+%F0%9F%93%8A;Learning+something+new+every+day+%F0%9F%8C%B7" alt="Typing animation"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBB8F3,50:F5C6E8,100:C7D2FE&height=200&section=header&text=Maria%20Hita&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistics%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning&descAlignY=60&descSize=14" width="100%" alt="Maria Hita pastel animated header"/>
+
+</div>
+
+
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Data+Analysis+with+Python%2C+R%2C+and+SQL;Exploring+Statistics+and+Machine+Learning;Currently+Learning+Tableau+and+Power+BI" alt="Typing SVG"/>
+</div>
+
 
 <p>
   <a href="https://github.com/MariaHita">
