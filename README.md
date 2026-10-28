@@ -138,7 +138,7 @@ More projects will be added as I continue learning and developing my portfolio. 
 
 </div>
 
-💌 Let's Connect!
+## 💌 Let's Connect!
 
 I'm always happy to connect with fellow learners, data enthusiasts, and people who enjoy exploring the world through data.
 
